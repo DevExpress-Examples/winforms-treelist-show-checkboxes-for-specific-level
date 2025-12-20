@@ -29,7 +29,7 @@ void treeList_BeforeCheckNode(object sender, CheckNodeEventArgs e) {
 }
 ```
 
-![WinForms TreeList - Display node checkboxes for a specific tree level](https://raw.githubusercontent.com/DevExpress-Examples/how-to-show-checkboxes-for-only-a-specific-level-e2810/13.1.4%2B/media/winforms-treelist-display-node-checkboxes.gif)
+![WinForms TreeList - Display node checkboxes for a specific tree level](media/winforms-treelist-display-node-checkboxes.gif)
 
 
 ## Files to Review
@@ -47,3 +47,4 @@ void treeList_BeforeCheckNode(object sender, CheckNodeEventArgs e) {
 
 (you will be redirected to DevExpress.com to submit your response)
 <!-- feedback end -->
+
